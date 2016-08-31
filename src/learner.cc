@@ -61,7 +61,6 @@ struct LearnerModelParam
   }
 };
 
-
 struct LearnerTrainParam
     : public dmlc::Parameter<LearnerTrainParam> {
   // stored random seed
